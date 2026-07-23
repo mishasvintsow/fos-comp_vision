@@ -249,7 +249,7 @@ def calculate_psnr(img1, img2):
 - Гонсалес Р., Вудс Р. Цифровая обработка изображений. – М.: Техносфера, 2012.
 - Медведева, Е. В. Цифровая обработка изображений в видеоинформационных системах: учебно-методическое пособие / Е. В. Медведева. — Киров: ВятГУ, 2015. — 110 с.
 - OpenCV Color Spaces and Conversion:  
-  [https://docs.opencv.org/4.x/d1/dfb/tutorial_py_table_of_contents.html](https://docs.opencv.org/4.x/d1/dfb/tutorial_py_table_of_contents.html)
+  [https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html](https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html)
 - OpenCV: Morphological Transformations:  
   [https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html](https://docs.opencv.org/4.x/d9/d61/tutorial_py_morphological_ops.html)
 - Richard Szeliski, Computer Vision: Algorithms and Applications, 2nd ed. [https://szeliski.org/Book/](https://szeliski.org/Book/)

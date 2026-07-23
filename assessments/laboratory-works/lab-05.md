@@ -262,9 +262,9 @@ results = model.val(data='coco128.yaml', imgsz=640, batch=16, conf=0.25, iou=0.4
   [https://scikit-learn.org/stable/modules/model_evaluation.html](https://scikit-learn.org/stable/modules/model_evaluation.html)
 - Ultralytics YOLO Documentation: Model Evaluation  
   [https://docs.ultralytics.com/modes/val/](https://docs.ultralytics.com/modes/val/)
-- OpenCV: Evaluation Metrics for Object Detection — [https://opencv.org/-](https://opencv.org/)
+- Ultralytics: YOLO Performance Metrics — [https://docs.ultralytics.com/guides/yolo-performance-metrics/](https://docs.ultralytics.com/guides/yolo-performance-metrics/)
 - Гудфеллоу Я., Бенджио И., Курвилль А. Глубокое обучение. — М.: ДМК Пресс, 2018. — Глава 5 (Оценка моделей).
-- Understanding Model Evaluation Metrics for Image Classification — [https://akridata.ai/](https://akridata.ai/)
+- Understanding Model Evaluation Metrics for Image Classification — [https://akridata.ai/blog/understanding-model-evaluation-metrics-for-image-classification/](https://akridata.ai/blog/understanding-model-evaluation-metrics-for-image-classification/)
 - Kukil (2022). Mean Average Precision (mAP) in Object Detection. [https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/](https://learnopencv.com/mean-average-precision-map-object-detection-model-evaluation-metric/)
 - Object-Detection-Metrics. [https://github.com/rafaelpadilla/object-detection-metrics](https://github.com/rafaelpadilla/object-detection-metrics)
 - Object Detection Metrics. [https://github.com/rafaelpadilla/review_object_detection_metrics](https://github.com/rafaelpadilla/review_object_detection_metrics)

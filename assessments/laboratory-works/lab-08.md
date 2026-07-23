@@ -370,6 +370,8 @@ plt.show()
 - 15% — Выполнено только одно продвинутое задание, либо в работе ControlNet/Inpainting присутствуют грубые логические ошибки (например, маска накладывается со смещением).
 - 0% — Задания повышенной сложности не затронуты.
 
+Если ни одно из заданий 3–5 не выполнено на работоспособном уровне, итоговый результат за лабораторную работу не может превышать 69 баллов независимо от суммы по остальным критериям.
+
 #### 20%: оформление отчета и защита работы
 
 - 20% — Отчет полностью структурирован. Описана архитектура Stable Diffusion и роль ее блоков. Студент уверенно отвечает на контрольные вопросы, демонстрируя понимание математики диффузионных процессов.
@@ -390,7 +392,7 @@ plt.show()
 - Ho J., Jain A., Abbeel P. Denoising Diffusion Probabilistic Models // Advances in Neural Information Processing Systems (NeurIPS). – 2020. [https://arxiv.org/abs/2006.11239](https://arxiv.org/abs/2006.11239)
 - Rombach R., Blattmann A., Lorenz D. et al. High-Resolution Image Synthesis with Latent Diffusion Models // Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR). – 2022. [https://arxiv.org/abs/2112.10752](https://arxiv.org/abs/2112.10752)
 - Zhang L., Agrawala M. Adding Conditional Control to Text-to-Image Diffusion Models // International Conference on Computer Vision (ICCV). – 2023. [https://arxiv.org/abs/2302.05543](https://arxiv.org/abs/2302.05543) или [https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Adding_Conditional_Control_to_Text-to-Image_Diffusion_Models_ICCV_2023_paper.html)
-- Документация Hugging Face: [Hugging Face Diffusers Documentation](https://huggingface.co/docs/diffusers) – практические руководства по оптимизации пайплайнов и работе с предобученными весами. [https://huggingface.co/docs/diffusers/index](https://huggingface.co/docs/diffusers/index)
+- Документация Hugging Face Diffusers: [https://huggingface.co/docs/diffusers/en/index](https://huggingface.co/docs/diffusers/en/index) — практические руководства по оптимизации пайплайнов и работе с предобученными весами.
 - Фостер, Д. Генеративное глубокое обучение : как не мы рисуем картины, пишем романы и музыку / Д. Фостер; перевод с английского Л. Киселева. — 2-е междун. изд. — Астана: Спринт Бук, 2024. — 448 с. — (Бестселлеры O'Reilly). — Перевод издания: Generative deep learning: teaching machines to Paint, write, compose, and play. — ISBN 978-601-08-3729-4.
 - Song Y. et al. «Score-Based Generative Modeling through Stochastic Differential Equations» (ICLR, 2021). [https://arxiv.org/abs/2011.13456](https://arxiv.org/abs/2011.13456)
 - SOTA-фреймворк для работы с диффузионными моделями: [https://github.com/huggingface/diffusers](https://github.com/huggingface/diffusers)

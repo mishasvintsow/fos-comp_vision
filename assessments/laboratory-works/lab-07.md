@@ -301,6 +301,6 @@ generator, discriminator = train_gan(epochs=2, batch_size=128)
 - PyTorch-GAN — Полная коллекция архитектур GAN на PyTorch. [https://github.com/eriklindernoren/PyTorch-GAN](https://github.com/eriklindernoren/PyTorch-GAN)
 - The GAN Zoo — Навигатор по миру GAN. [https://github.com/hindupuravinash/the-gan-zoo](https://github.com/hindupuravinash/the-gan-zoo)
 - Курс ИСП РАН: Практическое задание «Создание изображений с помощью GAN». [https://mlcourse.at.ispras.ru/wp-content/uploads/2021/02/gan_practice_2020.pdf](https://mlcourse.at.ispras.ru/wp-content/uploads/2021/02/gan_practice_2020.pdf)
-- Гид Яндекс Академии по ML: Раздел 8.3 Генеративно-состязательные сети (GAN). [https://education.yandex.ru/handbook/ml/article/generativno-sostyazatelnye-seti-(gan)](https://education.yandex.ru/handbook/ml/article/generativno-sostyazatelnye-seti-(gan))
+- Гид Яндекс Академии по ML: раздел 8.3 «Генеративно-состязательные сети (GAN)». [https://education.yandex.ru/handbook/ml/article/generativno-sostyazatelnye-seti-(gan)](<https://education.yandex.ru/handbook/ml/article/generativno-sostyazatelnye-seti-(gan)>)
 - Шолле Ф. (2022). Глубокое обучение на Python. (Глава 12: Генеративное глубокое обучение).
 - Keras 3: Deep Learning for Humans. [https://github.com/keras-team/keras](https://github.com/keras-team/keras)
