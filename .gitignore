@@ -1,0 +1,21 @@
+# Local source and reference materials used to prepare the repository
+/examples/
+/init_docs/
+/raw_data/
+/REPOSITORY_GUIDE.md
+
+# Local editor/workspace files
+/.idea/
+/.vscode/
+*.iml
+*.code-workspace
+
+# Operating-system metadata
+.DS_Store
+Thumbs.db
+
+# Temporary office files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.tmp
